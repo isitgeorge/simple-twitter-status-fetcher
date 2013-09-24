@@ -2,10 +2,10 @@
 
 // Configuration
 
-$consumer_key = '';                               //
-$consumer_secret = '';           //
-                                                                       // These keys are available at https://dev.twitter.com/apps
-$access_token = '';  //
+$consumer_key = '';			//
+$consumer_secret = '';		//
+							// These keys are available at https://dev.twitter.com/apps
+$access_token = '';  		//
 $access_token_secret = '';  //
 
 $twitter_name = ''; // Your Twitter name

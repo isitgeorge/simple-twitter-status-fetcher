@@ -8,7 +8,7 @@
 <h1>My page!</h1>
 
 <?php 
-include 'twitter_status.php';
+include 'fetch.php';
 
 echo 'My lastest Tweet: ';
 echo returnTweet('1'); // Display Tweet 1
