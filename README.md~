@@ -9,5 +9,3 @@ Configuration is located at the top of `fetch.php`, which also needs to be inclu
 Then use `echo fetchTweet(0)`, where `0` is the tweet you'd like to fetch, starting at the newest -  `echo fetchTweet(1)` would fetch the next tweet behind the latest.
 
 Take a look at `index.php` for an example.
-
-Happy tweeting!

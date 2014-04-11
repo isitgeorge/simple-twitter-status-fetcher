@@ -64,7 +64,7 @@ curl_close($oauth_send);
 
 $latest_tweet = json_decode($returned_string, true);
 
-function fetchTweet($count) {
+function returnTweet($count) {
 	global $latest_tweet;
 	return $latest_tweet[$count]['text'];
 }
